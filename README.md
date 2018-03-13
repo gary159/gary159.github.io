@@ -2,7 +2,7 @@
 
 This is my blog. I used a startbootstrap template to kick start the development.
 Check the latest version of my profile on this address:
-* https://www.garysz.com
+* http://www.garysz.com
 
 ## About
 
